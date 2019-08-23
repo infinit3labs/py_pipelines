@@ -19,3 +19,4 @@ unittests.cfg
 */logs/*
 
 django/*
+/testmonitor.py
