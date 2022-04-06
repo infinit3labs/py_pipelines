@@ -124,7 +124,7 @@ toolz==0.8.0
 tornado==4.2
 traitlets==4.2.2
 tweepy==3.5.0
-Twisted==16.4.1
+Twisted==21.2.0
 txaio==2.5.1
 unicodecsv==0.14.1
 uritemplate==0.6
